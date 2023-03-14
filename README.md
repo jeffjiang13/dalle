@@ -4,7 +4,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/jeffjiang13/dalle">
-    <img src="src/assets/logo.svg" alt="dalle" width="200" height="50">
+    <img src="client/src/assets/logo.svg" alt="dalle" width="200" height="50">
   </a>
 
 </div>
