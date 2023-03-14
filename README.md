@@ -3,13 +3,13 @@
 
 <br />
 <div align="center">
-  <a href="https://github.com/jeffjiang13/movie-app">
-    <img src="src/assets/logo.svg" alt="cryptoket" width="200" height="50">
+  <a href="https://github.com/jeffjiang13/dalle">
+    <img src="src/assets/logo.svg" alt="dalle" width="200" height="50">
   </a>
 
 </div>
 👋 To try out click here
-<a href="" > DEMO
+<a href="https://jj-dalle.vercel.app/" > DEMO
 
 
 # Full Stack MERN AI Image Generation App MidJourney & DALL E Clone
