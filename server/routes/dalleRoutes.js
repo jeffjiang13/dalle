@@ -21,6 +21,7 @@ router.route('/').post(async (req, res) => {
     const { prompt } = req.body;
 
     const aiResponse = await openai.createImage({
+      model:"gpt-3.5-turbo",
       prompt,
       n: 1,
       size: '1024x1024',
